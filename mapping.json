@@ -1,894 +1,1199 @@
 {
   "brawler": {
     "16000000": {
-      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000000.png",
+      "image": "https://cdn.brawlify.com/brawlers/borderless/16000000.png",
       "name_en": "SHELLY",
       "name_zh": "雪莉"
     },
     "16000001": {
-      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000001.png",
+      "image": "https://cdn.brawlify.com/brawlers/borderless/16000001.png",
       "name_en": "COLT",
       "name_zh": "柯爾特"
     },
     "16000002": {
-      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000002.png",
+      "image": "https://cdn.brawlify.com/brawlers/borderless/16000002.png",
       "name_en": "BULL",
       "name_zh": "狂牛"
     },
     "16000003": {
-      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000003.png",
+      "image": "https://cdn.brawlify.com/brawlers/borderless/16000003.png",
       "name_en": "BROCK",
       "name_zh": "布洛克"
     },
     "16000004": {
-      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000004.png",
+      "image": "https://cdn.brawlify.com/brawlers/borderless/16000004.png",
       "name_en": "RICO",
       "name_zh": "彈射"
     },
     "16000005": {
-      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000005.png",
+      "image": "https://cdn.brawlify.com/brawlers/borderless/16000005.png",
       "name_en": "SPIKE",
       "name_zh": "史派克"
     },
     "16000006": {
-      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000006.png",
+      "image": "https://cdn.brawlify.com/brawlers/borderless/16000006.png",
       "name_en": "BARLEY",
       "name_zh": "保力"
     },
     "16000007": {
-      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000007.png",
+      "image": "https://cdn.brawlify.com/brawlers/borderless/16000007.png",
       "name_en": "JESSIE",
       "name_zh": "潔西"
     },
     "16000008": {
-      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000008.png",
+      "image": "https://cdn.brawlify.com/brawlers/borderless/16000008.png",
       "name_en": "NITA",
       "name_zh": "妮塔"
     },
     "16000009": {
-      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000009.png",
+      "image": "https://cdn.brawlify.com/brawlers/borderless/16000009.png",
       "name_en": "DYNAMIKE",
       "name_zh": "爆破麥克"
     },
     "16000010": {
-      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000010.png",
+      "image": "https://cdn.brawlify.com/brawlers/borderless/16000010.png",
       "name_en": "EL PRIMO",
       "name_zh": "艾爾普里莫"
     },
     "16000011": {
-      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000011.png",
+      "image": "https://cdn.brawlify.com/brawlers/borderless/16000011.png",
       "name_en": "MORTIS",
       "name_zh": "莫提斯"
     },
     "16000012": {
-      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000012.png",
+      "image": "https://cdn.brawlify.com/brawlers/borderless/16000012.png",
       "name_en": "CROW",
       "name_zh": "鴉"
     },
     "16000013": {
-      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000013.png",
-      "name_en": "POCO"
+      "image": "https://cdn.brawlify.com/brawlers/borderless/16000013.png",
+      "name_en": "POCO",
+      "name_zh": "波可"
     },
     "16000014": {
-      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000014.png",
-      "name_en": "BO"
+      "image": "https://cdn.brawlify.com/brawlers/borderless/16000014.png",
+      "name_en": "BO",
+      "name_zh": "鷹獵人 爆"
     },
     "16000015": {
-      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000015.png",
-      "name_en": "PIPER"
+      "image": "https://cdn.brawlify.com/brawlers/borderless/16000015.png",
+      "name_en": "PIPER",
+      "name_zh": "小辣椒"
     },
     "16000016": {
-      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000016.png",
-      "name_en": "PAM"
+      "image": "https://cdn.brawlify.com/brawlers/borderless/16000016.png",
+      "name_en": "PAM",
+      "name_zh": "帕姆"
     },
     "16000017": {
-      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000017.png",
-      "name_en": "TARA"
+      "image": "https://cdn.brawlify.com/brawlers/borderless/16000017.png",
+      "name_en": "TARA",
+      "name_zh": "塔拉"
     },
     "16000018": {
-      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000018.png",
-      "name_en": "DARRYL"
+      "image": "https://cdn.brawlify.com/brawlers/borderless/16000018.png",
+      "name_en": "DARRYL",
+      "name_zh": "達里爾"
     },
     "16000019": {
-      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000019.png",
-      "name_en": "PENNY"
+      "image": "https://cdn.brawlify.com/brawlers/borderless/16000019.png",
+      "name_en": "PENNY",
+      "name_zh": "佩妮"
     },
     "16000020": {
-      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000020.png",
-      "name_en": "FRANK"
+      "image": "https://cdn.brawlify.com/brawlers/borderless/16000020.png",
+      "name_en": "FRANK",
+      "name_zh": "法蘭克"
     },
     "16000021": {
-      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000021.png",
-      "name_en": "GENE"
+      "image": "https://cdn.brawlify.com/brawlers/borderless/16000021.png",
+      "name_en": "GENE",
+      "name_zh": "吉恩"
     },
     "16000022": {
-      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000022.png",
-      "name_en": "TICK"
+      "image": "https://cdn.brawlify.com/brawlers/borderless/16000022.png",
+      "name_en": "TICK",
+      "name_zh": "滴答"
     },
     "16000023": {
-      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000023.png",
-      "name_en": "LEON"
+      "image": "https://cdn.brawlify.com/brawlers/borderless/16000023.png",
+      "name_en": "LEON",
+      "name_zh": "里昂"
     },
     "16000024": {
-      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000024.png",
-      "name_en": "ROSA"
+      "image": "https://cdn.brawlify.com/brawlers/borderless/16000024.png",
+      "name_en": "ROSA",
+      "name_zh": "羅莎"
     },
     "16000025": {
-      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000025.png",
-      "name_en": "CARL"
+      "image": "https://cdn.brawlify.com/brawlers/borderless/16000025.png",
+      "name_en": "CARL",
+      "name_zh": "卡爾"
     },
     "16000026": {
-      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000026.png",
-      "name_en": "BIBI"
+      "image": "https://cdn.brawlify.com/brawlers/borderless/16000026.png",
+      "name_en": "BIBI",
+      "name_zh": "嗶嗶"
     },
     "16000027": {
-      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000027.png",
-      "name_en": "8-BIT"
+      "image": "https://cdn.brawlify.com/brawlers/borderless/16000027.png",
+      "name_en": "8-BIT",
+      "name_zh": "比特8號"
     },
     "16000028": {
-      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000028.png",
-      "name_en": "SANDY"
+      "image": "https://cdn.brawlify.com/brawlers/borderless/16000028.png",
+      "name_en": "SANDY",
+      "name_zh": "沙迪"
     },
     "16000029": {
-      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000029.png",
-      "name_en": "BEA"
+      "image": "https://cdn.brawlify.com/brawlers/borderless/16000029.png",
+      "name_en": "BEA",
+      "name_zh": "碧兒"
     },
     "16000030": {
-      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000030.png",
-      "name_en": "EMZ"
+      "image": "https://cdn.brawlify.com/brawlers/borderless/16000030.png",
+      "name_en": "EMZ",
+      "name_zh": "艾謎"
     },
     "16000031": {
-      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000031.png",
-      "name_en": "MR. P"
+      "image": "https://cdn.brawlify.com/brawlers/borderless/16000031.png",
+      "name_en": "MR. P",
+      "name_zh": "Mr. P"
     },
     "16000032": {
-      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000032.png",
-      "name_en": "MAX"
+      "image": "https://cdn.brawlify.com/brawlers/borderless/16000032.png",
+      "name_en": "MAX",
+      "name_zh": "麥克絲"
     },
     "16000034": {
-      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000034.png",
-      "name_en": "JACKY"
+      "image": "https://cdn.brawlify.com/brawlers/borderless/16000034.png",
+      "name_en": "JACKY",
+      "name_zh": "賈姬"
     },
     "16000035": {
-      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000035.png",
-      "name_en": "GALE"
+      "image": "https://cdn.brawlify.com/brawlers/borderless/16000035.png",
+      "name_en": "GALE",
+      "name_zh": "格爾"
     },
     "16000036": {
-      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000036.png",
-      "name_en": "NANI"
+      "image": "https://cdn.brawlify.com/brawlers/borderless/16000036.png",
+      "name_en": "NANI",
+      "name_zh": "納妮"
     },
     "16000037": {
-      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000037.png",
-      "name_en": "SPROUT"
+      "image": "https://cdn.brawlify.com/brawlers/borderless/16000037.png",
+      "name_en": "SPROUT",
+      "name_zh": "芽芽"
     },
     "16000038": {
-      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000038.png",
-      "name_en": "SURGE"
+      "image": "https://cdn.brawlify.com/brawlers/borderless/16000038.png",
+      "name_en": "SURGE",
+      "name_zh": "奔騰"
     },
     "16000039": {
-      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000039.png",
-      "name_en": "COLETTE"
+      "image": "https://cdn.brawlify.com/brawlers/borderless/16000039.png",
+      "name_en": "COLETTE",
+      "name_zh": "葛蕾特"
     },
     "16000040": {
-      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000040.png",
-      "name_en": "AMBER"
+      "image": "https://cdn.brawlify.com/brawlers/borderless/16000040.png",
+      "name_en": "AMBER",
+      "name_zh": "安珀"
     },
     "16000041": {
-      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000041.png",
-      "name_en": "LOU"
+      "image": "https://cdn.brawlify.com/brawlers/borderless/16000041.png",
+      "name_en": "LOU",
+      "name_zh": "阿魯"
     },
     "16000042": {
-      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000042.png",
-      "name_en": "BYRON"
+      "image": "https://cdn.brawlify.com/brawlers/borderless/16000042.png",
+      "name_en": "BYRON",
+      "name_zh": "拜倫"
     },
     "16000043": {
-      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000043.png",
-      "name_en": "EDGAR"
+      "image": "https://cdn.brawlify.com/brawlers/borderless/16000043.png",
+      "name_en": "EDGAR",
+      "name_zh": "艾德加"
     },
     "16000044": {
-      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000044.png",
-      "name_en": "RUFFS"
+      "image": "https://cdn.brawlify.com/brawlers/borderless/16000044.png",
+      "name_en": "RUFFS",
+      "name_zh": "拉夫"
     },
     "16000045": {
-      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000045.png",
-      "name_en": "STU"
+      "image": "https://cdn.brawlify.com/brawlers/borderless/16000045.png",
+      "name_en": "STU",
+      "name_zh": "駛徒"
     },
     "16000046": {
-      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000046.png",
-      "name_en": "BELLE"
+      "image": "https://cdn.brawlify.com/brawlers/borderless/16000046.png",
+      "name_en": "BELLE",
+      "name_zh": "蓓爾"
     },
     "16000047": {
-      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000047.png",
-      "name_en": "SQUEAK"
+      "image": "https://cdn.brawlify.com/brawlers/borderless/16000047.png",
+      "name_en": "SQUEAK",
+      "name_zh": "斯威克"
     },
     "16000048": {
-      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000048.png",
-      "name_en": "GROM"
+      "image": "https://cdn.brawlify.com/brawlers/borderless/16000048.png",
+      "name_en": "GROM",
+      "name_zh": "葛羅姆"
     },
     "16000049": {
-      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000049.png",
-      "name_en": "BUZZ"
+      "image": "https://cdn.brawlify.com/brawlers/borderless/16000049.png",
+      "name_en": "BUZZ",
+      "name_zh": "霸子"
     },
     "16000050": {
-      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000050.png",
-      "name_en": "GRIFF"
+      "image": "https://cdn.brawlify.com/brawlers/borderless/16000050.png",
+      "name_en": "GRIFF",
+      "name_zh": "格里夫"
     },
     "16000051": {
-      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000051.png",
-      "name_en": "ASH"
+      "image": "https://cdn.brawlify.com/brawlers/borderless/16000051.png",
+      "name_en": "ASH",
+      "name_zh": "阿信"
     },
     "16000052": {
-      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000052.png",
-      "name_en": "MEG"
+      "image": "https://cdn.brawlify.com/brawlers/borderless/16000052.png",
+      "name_en": "MEG",
+      "name_zh": "梅格"
     },
     "16000053": {
-      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000053.png",
-      "name_en": "LOLA"
+      "image": "https://cdn.brawlify.com/brawlers/borderless/16000053.png",
+      "name_en": "LOLA",
+      "name_zh": "蘿拉"
     },
     "16000054": {
-      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000054.png",
-      "name_en": "FANG"
+      "image": "https://cdn.brawlify.com/brawlers/borderless/16000054.png",
+      "name_en": "FANG",
+      "name_zh": "范"
     },
     "16000056": {
-      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000056.png",
-      "name_en": "EVE"
+      "image": "https://cdn.brawlify.com/brawlers/borderless/16000056.png",
+      "name_en": "EVE",
+      "name_zh": "異芙"
     },
     "16000057": {
-      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000057.png",
-      "name_en": "JANET"
+      "image": "https://cdn.brawlify.com/brawlers/borderless/16000057.png",
+      "name_en": "JANET",
+      "name_zh": "珍娜"
     },
     "16000058": {
-      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000058.png",
-      "name_en": "BONNIE"
+      "image": "https://cdn.brawlify.com/brawlers/borderless/16000058.png",
+      "name_en": "BONNIE",
+      "name_zh": "邦妮"
     },
     "16000059": {
-      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000059.png",
-      "name_en": "OTIS"
+      "image": "https://cdn.brawlify.com/brawlers/borderless/16000059.png",
+      "name_en": "OTIS",
+      "name_zh": "歐提斯"
     },
     "16000060": {
-      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000060.png",
-      "name_en": "SAM"
+      "image": "https://cdn.brawlify.com/brawlers/borderless/16000060.png",
+      "name_en": "SAM",
+      "name_zh": "山姆"
     },
     "16000061": {
-      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000061.png",
-      "name_en": "GUS"
+      "image": "https://cdn.brawlify.com/brawlers/borderless/16000061.png",
+      "name_en": "GUS",
+      "name_zh": "格斯"
     },
     "16000062": {
-      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000062.png",
-      "name_en": "BUSTER"
+      "image": "https://cdn.brawlify.com/brawlers/borderless/16000062.png",
+      "name_en": "BUSTER",
+      "name_zh": "巴斯特"
     },
     "16000063": {
-      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000063.png",
-      "name_en": "CHESTER"
+      "image": "https://cdn.brawlify.com/brawlers/borderless/16000063.png",
+      "name_en": "CHESTER",
+      "name_zh": "查斯特"
     },
     "16000064": {
-      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000064.png",
-      "name_en": "GRAY"
+      "image": "https://cdn.brawlify.com/brawlers/borderless/16000064.png",
+      "name_en": "GRAY",
+      "name_zh": "蓋瑞"
     },
     "16000065": {
-      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000065.png",
-      "name_en": "MANDY"
+      "image": "https://cdn.brawlify.com/brawlers/borderless/16000065.png",
+      "name_en": "MANDY",
+      "name_zh": "曼蒂"
     },
     "16000066": {
-      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000066.png",
-      "name_en": "R-T"
+      "image": "https://cdn.brawlify.com/brawlers/borderless/16000066.png",
+      "name_en": "R-T",
+      "name_zh": "R-T"
     },
     "16000067": {
-      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000067.png",
-      "name_en": "WILLOW"
+      "image": "https://cdn.brawlify.com/brawlers/borderless/16000067.png",
+      "name_en": "WILLOW",
+      "name_zh": "葳洛"
     },
     "16000068": {
-      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000068.png",
-      "name_en": "MAISIE"
+      "image": "https://cdn.brawlify.com/brawlers/borderless/16000068.png",
+      "name_en": "MAISIE",
+      "name_zh": "麥西"
     },
     "16000069": {
-      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000069.png",
-      "name_en": "HANK"
+      "image": "https://cdn.brawlify.com/brawlers/borderless/16000069.png",
+      "name_en": "HANK",
+      "name_zh": "漢克"
     },
     "16000070": {
-      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000070.png",
-      "name_en": "CORDELIUS"
+      "image": "https://cdn.brawlify.com/brawlers/borderless/16000070.png",
+      "name_en": "CORDELIUS",
+      "name_zh": "康迪留斯"
     },
     "16000071": {
-      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000071.png",
-      "name_en": "DOUG"
+      "image": "https://cdn.brawlify.com/brawlers/borderless/16000071.png",
+      "name_en": "DOUG",
+      "name_zh": "道格"
     },
     "16000072": {
-      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000072.png",
-      "name_en": "PEARL"
+      "image": "https://cdn.brawlify.com/brawlers/borderless/16000072.png",
+      "name_en": "PEARL",
+      "name_zh": "珀爾"
     },
     "16000073": {
-      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000073.png",
-      "name_en": "CHUCK"
+      "image": "https://cdn.brawlify.com/brawlers/borderless/16000073.png",
+      "name_en": "CHUCK",
+      "name_zh": "查克"
     },
     "16000074": {
-      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000074.png",
-      "name_en": "CHARLIE"
+      "image": "https://cdn.brawlify.com/brawlers/borderless/16000074.png",
+      "name_en": "CHARLIE",
+      "name_zh": "查莉"
     },
     "16000075": {
-      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000075.png",
-      "name_en": "MICO"
+      "image": "https://cdn.brawlify.com/brawlers/borderless/16000075.png",
+      "name_en": "MICO",
+      "name_zh": "米可"
     },
     "16000076": {
-      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000076.png",
-      "name_en": "KIT"
+      "image": "https://cdn.brawlify.com/brawlers/borderless/16000076.png",
+      "name_en": "KIT",
+      "name_zh": "凱特"
     },
     "16000077": {
-      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000077.png",
-      "name_en": "LARRY & LAWRIE"
+      "image": "https://cdn.brawlify.com/brawlers/borderless/16000077.png",
+      "name_en": "LARRY & LAWRIE",
+      "name_zh": "賴瑞和羅瑞"
     },
     "16000078": {
-      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000078.png",
-      "name_en": "MELODIE"
+      "image": "https://cdn.brawlify.com/brawlers/borderless/16000078.png",
+      "name_en": "MELODIE",
+      "name_zh": "美樂蒂"
     },
     "16000079": {
-      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000079.png",
-      "name_en": "ANGELO"
+      "image": "https://cdn.brawlify.com/brawlers/borderless/16000079.png",
+      "name_en": "ANGELO",
+      "name_zh": "安傑洛"
     },
     "16000080": {
-      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000080.png",
-      "name_en": "DRACO"
+      "image": "https://cdn.brawlify.com/brawlers/borderless/16000080.png",
+      "name_en": "DRACO",
+      "name_zh": "德拉古"
     },
     "16000081": {
-      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000081.png",
-      "name_en": "LILY"
+      "image": "https://cdn.brawlify.com/brawlers/borderless/16000081.png",
+      "name_en": "LILY",
+      "name_zh": "莉莉"
     },
     "16000082": {
-      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000082.png",
-      "name_en": "BERRY"
+      "image": "https://cdn.brawlify.com/brawlers/borderless/16000082.png",
+      "name_en": "BERRY",
+      "name_zh": "貝瑞"
     },
     "16000083": {
-      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000083.png",
-      "name_en": "CLANCY"
+      "image": "https://cdn.brawlify.com/brawlers/borderless/16000083.png",
+      "name_en": "CLANCY",
+      "name_zh": "克蘭西"
     },
     "16000084": {
-      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000084.png",
-      "name_en": "MOE"
+      "image": "https://cdn.brawlify.com/brawlers/borderless/16000084.png",
+      "name_en": "MOE",
+      "name_zh": "莫"
     },
     "16000085": {
-      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000085.png",
-      "name_en": "KENJI"
+      "image": "https://cdn.brawlify.com/brawlers/borderless/16000085.png",
+      "name_en": "KENJI",
+      "name_zh": "賢治"
     },
     "16000086": {
-      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000086.png",
-      "name_en": "SHADE"
+      "image": "https://cdn.brawlify.com/brawlers/borderless/16000086.png",
+      "name_en": "SHADE",
+      "name_zh": "謝德"
     },
     "16000087": {
-      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000087.png",
-      "name_en": "JUJU"
+      "image": "https://cdn.brawlify.com/brawlers/borderless/16000087.png",
+      "name_en": "JUJU",
+      "name_zh": "茱茱"
     },
     "16000089": {
-      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000089.png",
-      "name_en": "MEEPLE"
+      "image": "https://cdn.brawlify.com/brawlers/borderless/16000089.png",
+      "name_en": "MEEPLE",
+      "name_zh": "謎寶"
     },
     "16000090": {
-      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000090.png",
-      "name_en": "OLLIE"
+      "image": "https://cdn.brawlify.com/brawlers/borderless/16000090.png",
+      "name_en": "OLLIE",
+      "name_zh": "奧利"
     },
     "16000091": {
-      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000091.png",
-      "name_en": "LUMI"
+      "image": "https://cdn.brawlify.com/brawlers/borderless/16000091.png",
+      "name_en": "LUMI",
+      "name_zh": ""
     },
     "16000092": {
-      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000092.png",
-      "name_en": "FINX"
+      "image": "https://cdn.brawlify.com/brawlers/borderless/16000092.png",
+      "name_en": "FINX",
+      "name_zh": "芬克斯"
     },
     "16000093": {
-      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000093.png",
-      "name_en": "JAE-YONG"
+      "image": "https://cdn.brawlify.com/brawlers/borderless/16000093.png",
+      "name_en": "JAE-YONG",
+      "name_zh": "載勇"
     },
     "16000094": {
-      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000094.png",
-      "name_en": "KAZE"
+      "image": "https://cdn.brawlify.com/brawlers/borderless/16000094.png",
+      "name_en": "KAZE",
+      "name_zh": "小風"
     },
     "16000095": {
-      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000095.png",
-      "name_en": "ALLI"
+      "image": "https://cdn.brawlify.com/brawlers/borderless/16000095.png",
+      "name_en": "ALLI",
+      "name_zh": "愛莉"
     },
     "16000096": {
-      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000096.png",
-      "name_en": "TRUNK"
+      "image": "https://cdn.brawlify.com/brawlers/borderless/16000096.png",
+      "name_en": "TRUNK",
+      "name_zh": "特朗克"
     },
     "16000097": {
-      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000097.png",
-      "name_en": "MINA"
+      "image": "https://cdn.brawlify.com/brawlers/borderless/16000097.png",
+      "name_en": "MINA",
+      "name_zh": "蜜娜"
     },
     "16000098": {
-      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000098.png",
-      "name_en": "ZIGGY"
+      "image": "https://cdn.brawlify.com/brawlers/borderless/16000098.png",
+      "name_en": "ZIGGY",
+      "name_zh": "茲奇"
     },
     "16000099": {
-      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000099.png",
-      "name_en": "PIERCE"
+      "image": "https://cdn.brawlify.com/brawlers/borderless/16000099.png",
+      "name_en": "PIERCE",
+      "name_zh": "皮爾斯"
     },
     "16000100": {
-      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000100.png",
-      "name_en": "GIGI"
+      "image": "https://cdn.brawlify.com/brawlers/borderless/16000100.png",
+      "name_en": "GIGI",
+      "name_zh": "琪琪"
     },
     "16000101": {
-      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000101.png",
-      "name_en": "GLOWBERT"
+      "image": "https://cdn.brawlify.com/brawlers/borderless/16000101.png",
+      "name_en": "GLOWBERT",
+      "name_zh": "格魯伊"
     },
     "16000102": {
-      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000102.png",
-      "name_en": "SIRIUS"
+      "image": "https://cdn.brawlify.com/brawlers/borderless/16000102.png",
+      "name_en": "SIRIUS",
+      "name_zh": "西里烏斯"
     },
     "16000103": {
-      "image": "https://github.com/Brawlify/CDN/blob/master/brawlers/borderless/16000103.png",
-      "name_en": "NAJIA"
+      "image": "https://cdn.brawlify.com/brawlers/borderless/16000103.png",
+      "name_en": "NAJIA",
+      "name_zh": "娜吉亞"
     }
   },
   "map": {
     "Sidetrack": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001053.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15001053.png",
+      "name_zh": "偏離正軌"
     },
     "Arena of Glory": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000996.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15000996.png",
+      "name_zh": "榮耀競技場"
     },
     "Nutmeg": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001168.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15001168.png",
+      "name_zh": "穿襠過人"
     },
     "Healthy Middle Ground": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000581.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15000581.png",
+      "name_zh": "治癒中場"
     },
     "Beach Ball": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000143.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15000143.png",
+      "name_zh": "沙灘足球"
     },
     "Hot Potato": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000053.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15000053.png",
+      "name_zh": "燙手山芋"
     },
     "Open Business": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000292.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15000292.png",
+      "name_zh": "開門大吉"
     },
     "Center Stage": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000132.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15000132.png",
+      "name_zh": "中心舞台"
     },
     "Ring of Fire": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000300.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15000300.png",
+      "name_zh": "灼熱火圈"
     },
     "Too Gimmicky 2": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001164.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15001164.png",
+      "name_zh": "花樣百出"
     },
     "Fortress Fall": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001172.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15001172.png",
+      "name_zh": "陷落堡壘"
     },
     "Hideout": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000022.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15000022.png",
+      "name_zh": "草叢迷蹤"
     },
     "Safe Zone": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000019.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15000019.png",
+      "name_zh": "安全區域"
     },
     "Mirage Arena": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000997.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15000997.png",
+      "name_zh": "幻影競技場"
     },
     "New Horizons": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000703.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15000703.png",
+      "name_zh": "新地平線"
     },
     "Gem Fort": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000010.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15000010.png",
+      "name_zh": "寶石要塞"
     },
     "Bridge Too Far": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000072.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15000072.png",
+      "name_zh": "遙遠的橋"
     },
     "Dueling Beetles": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000306.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15000306.png",
+      "name_zh": "甲蟲決鬥"
     },
     "Layer Cake": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000082.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15000082.png",
+      "name_zh": "夾心蛋糕"
     },
     "The Smackdome": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001065.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15001065.png",
+      "name_zh": "爆裂擂台"
     },
     "Quintillion": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001170.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15001170.png",
+      "name_zh": "天文數字"
     },
     "New Perspective": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000528.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15000528.png",
+      "name_zh": "全新視角"
     },
     "Deep End": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000429.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15000429.png",
+      "name_zh": "深水區"
     },
     "Double Swoosh": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000115.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15000115.png",
+      "name_zh": "咻咻作響"
     },
     "Grass Knot": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001020.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15001020.png",
+      "name_zh": "草繩結"
     },
     "Hyperspace": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001178.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15001178.png",
+      "name_zh": "超空間"
     },
     "Pocket Pass": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000386.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15000386.png",
+      "name_zh": "口袋運球"
     },
     "Dry Season": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000083.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15000083.png",
+      "name_zh": "酷熱地帶"
     },
     "Triple Dribble": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000025.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15000025.png",
+      "name_zh": "三重威脅"
     },
     "Crystal Arcade": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000781.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15000781.png",
+      "name_zh": "水晶遊戲場"
     },
     "Shooting Star": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000005.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15000005.png",
+      "name_zh": "神秘流星"
     },
     "Out in the Open": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000548.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15000548.png",
+      "name_zh": "空曠荒野"
     },
     "Opening Move": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001210.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15001210.png",
+      "name_zh": "好戲開場"
     },
     "Slippery Slap": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000851.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15000851.png",
+      "name_zh": "滑溜擊球"
     },
     "Flaring Phoenix": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000440.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15000440.png",
+      "name_zh": "烈焰鳳凰"
     },
     "Kaiju Lake": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000993.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15000993.png",
+      "name_zh": "怪獸之湖"
     },
     "Pinball Dreams": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000118.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15000118.png",
+      "name_zh": "夢幻彈珠"
     },
     "Sneaky Fields": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000050.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15000050.png",
+      "name_zh": "綠蔭球場"
     },
     "Singed Earth": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001167.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15001167.png",
+      "name_zh": "焦黑大地"
     },
     "Pinhole Punt": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000026.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15000026.png",
+      "name_zh": "精準射門"
     },
     "Sunny Soccer": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000144.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15000144.png",
+      "name_zh": "陽光球場"
     },
     "Hard Rock Mine": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000007.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15000007.png",
+      "name_zh": "堅石礦井"
     },
     "Deathcap Trap": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000009.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15000009.png",
+      "name_zh": "戈壁陷阱"
     },
     "Undermine": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000011.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15000011.png",
+      "name_zh": "地下礦坑"
     },
     "Parallel Plays": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000293.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15000293.png",
+      "name_zh": "平行遊戲"
     },
     "Belle's Rock": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000368.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15000368.png",
+      "name_zh": "搖滾蓓爾"
     },
     "Spiraling Out": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001021.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15001021.png",
+      "name_zh": "盤旋而出"
     },
     "Kaboom Canyon": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000018.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15000018.png",
+      "name_zh": "轟隆峽谷"
     },
     "Tip Toe": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001221.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15001221.png",
+      "name_zh": "踮腳行動"
     },
     "Tax Evasion": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001165.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15001165.png",
+      "name_zh": "避稅區"
     },
     "Rustic Arcade": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000343.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15000343.png",
+      "name_zh": "鄉趣遊樂場"
     },
     "Knockout Grounds": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001064.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15001064.png",
+      "name_zh": "決勝場地"
     },
     "Flowing Springs": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000502.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15000502.png",
+      "name_zh": "潺潺流水"
     },
     "WALKING ON HOT SAND": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001163.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15001163.png",
+      "name_zh": "步行熱沙"
     },
     "Watermelons": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001219.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15001219.png",
+      "name_zh": "西瓜成山"
     },
     "Backyard Bowl": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000024.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15000024.png",
+      "name_zh": "後院球場"
     },
     "Goldarm Gulch": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000367.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15000367.png",
+      "name_zh": "金臂峽谷"
     },
     "Konnakol": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001173.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15001173.png",
+      "name_zh": "口技舞台"
     },
     "Hyacinth House": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001203.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15001203.png",
+      "name_zh": "紫藍房屋"
     },
     "No Excuses": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000295.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15000295.png",
+      "name_zh": "沒有藉口"
     },
     "Snake Pit": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001171.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15001171.png",
+      "name_zh": "混亂地帶"
     },
     "Super Beach": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000051.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15000051.png",
+      "name_zh": "超級海灘"
     },
     "Palette Hangout": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001201.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15001201.png",
+      "name_zh": "畫板聚會"
     },
     "No Good Deed": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001205.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15001205.png",
+      "name_zh": "不懷好意"
     },
     "Chivalry": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001127.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15001127.png",
+      "name_zh": "騎士精神"
     },
     "Goalies": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001204.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15001204.png",
+      "name_zh": "守門大師"
     },
     "Triple-Double": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000390.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15000390.png",
+      "name_zh": "大三元"
     },
     "H is for Holiday": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001177.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15001177.png",
+      "name_zh": "節日字母"
     },
     "Four Levels": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000734.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15000734.png",
+      "name_zh": "四重關卡"
     },
     "Storage Sector": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001027.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15001027.png",
+      "name_zh": "倉庫區"
     },
     "Wall Hugging": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001175.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15001175.png",
+      "name_zh": "頭撞南牆"
     },
     "Aridity": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001169.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15001169.png",
+      "name_zh": "乾旱地帶"
     },
     "Crab Claws": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001211.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15001211.png",
+      "name_zh": "螃蟹大螯"
     },
     "On a Roll": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001026.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15001026.png",
+      "name_zh": "連續成功"
     },
     "Double Decker": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001018.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15001018.png",
+      "name_zh": "雙層甲板"
     },
     "Super Center": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000850.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15000850.png",
+      "name_zh": "超級中心"
     },
     "Hit and Run": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001220.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15001220.png",
+      "name_zh": "肇事逃逸"
     },
     "Hee Hee": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001049.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15001049.png",
+      "name_zh": "嘻嘻哈哈"
     },
     "Cabin Fever": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001222.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15001222.png",
+      "name_zh": "孤身隱居"
     },
     "Slam Dunk": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000389.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15000389.png",
+      "name_zh": "灌籃高手"
     },
     "Bouncy Bowl": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000852.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15000852.png",
+      "name_zh": "彈球賽事"
     },
     "Reversal": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000385.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15000385.png",
+      "name_zh": "轉換進攻"
     },
     "Below Zero": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000853.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15000853.png",
+      "name_zh": "低溫戰場"
     },
     "Golden Bay": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001202.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15001202.png",
+      "name_zh": "金色海灣"
     },
     "Turnover": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000387.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15000387.png",
+      "name_zh": "致命失誤"
     },
     "Stone Fort": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000001.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15000001.png",
+      "name_zh": "堅石堡壘"
     },
     "Pinned Down": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001179.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15001179.png",
+      "name_zh": "困獸之鬥"
     },
     "Hello Always Ends With a Goodbye": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001200.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15001200.png",
+      "name_zh": "有始有終"
     },
     "The Big Top": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001224.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15001224.png",
+      "name_zh": "大帳篷"
     },
     "Corner Cave": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001063.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15001063.png",
+      "name_zh": "邊緣洞穴"
     },
     "Streets with No Name": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001019.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15001019.png",
+      "name_zh": "無名街"
     },
     "Call of the Water": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001059.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15001059.png",
+      "name_zh": "水之召喚"
     },
     "Close Call": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000362.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15000362.png"
     },
     "Insane Streamer": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001043.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15001043.png",
+      "name_zh": "瘋狂主播"
     },
     "Think Ahead": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001058.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15001058.png",
+      "name_zh": "未雨綢繆"
     },
     "Tuning Fork": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001206.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15001206.png",
+      "name_zh": "調音裝置"
     },
     "Perpetual Motion": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001207.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15001207.png",
+      "name_zh": "永動機"
     },
     "Subway Turfers": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001024.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15001024.png",
+      "name_zh": "地鐵滑板"
     },
     "Crescendo": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001101.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15001101.png",
+      "name_zh": "聲勢漸起"
     },
     "Alley Oop": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000388.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15000388.png",
+      "name_zh": "空中接力"
     },
     "Rebound Ring": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001032.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15001032.png",
+      "name_zh": "反彈奪球"
     },
     "Pit Stop": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000137.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15000137.png",
+      "name_zh": "維修站"
     },
     "Illusion Alley": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001190.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15001190.png",
+      "name_zh": "幻覺小巷"
     },
     "A Ballad About Minced Cutlets": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001096.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15001096.png",
+      "name_zh": "肉餅輓歌"
     },
     "Satomi Springs": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001209.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15001209.png",
+      "name_zh": "春意盎然"
     },
     "Open Space": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000499.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15000499.png",
+      "name_zh": "開闊地帶"
     },
     "Ball Hog": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000384.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15000384.png",
+      "name_zh": "首席球迷"
     },
     "Treasure Island": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000980.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15000980.png",
+      "name_zh": "寶藏島嶼"
     },
     "Twentyfive to Two": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001055.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15001055.png",
+      "name_zh": "1點35"
     },
     "Choral Chambers": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001176.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15001176.png",
+      "name_zh": "合唱大廳"
     },
     "Starrburst": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001067.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15001067.png",
+      "name_zh": "美好星大爆炸"
     },
     "Don't turn around": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000553.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15000553.png",
+      "name_zh": "不要轉身"
     },
     "Brace for Impact": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000935.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15000935.png",
+      "name_zh": "防禦姿勢"
     },
     "Grab the Moment": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001094.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15001094.png",
+      "name_zh": "搶佔時機"
     },
     "H for...": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000882.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15000882.png",
+      "name_zh": "中心字母"
     },
     "Icy ice park": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000646.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15000646.png",
+      "name_zh": "冰雪公園"
     },
     "Match 1123581321": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001054.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15001054.png",
+      "name_zh": "費氏數列"
     },
     "Rooftop Runners": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000929.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15000929.png",
+      "name_zh": "屋頂穿梭"
     },
     "Picturesque": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001208.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15001208.png",
+      "name_zh": "優美風景"
     },
     "Ends Meet": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000360.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15000360.png"
     },
     "Party for You": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001095.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15001095.png",
+      "name_zh": "專屬派對"
     },
     "Squish Court": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001039.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15001039.png",
+      "name_zh": "甩球地帶"
     },
     "Outlaw Camp": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000006.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15000006.png",
+      "name_zh": "囚徒營地"
     },
     "Imposter Pathway": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001225.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15001225.png",
+      "name_zh": "偽裝者之路"
     },
     "Frostbite Rink": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001035.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15001035.png",
+      "name_zh": "極寒冰場"
     },
     "Deathmatch": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001104.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15001104.png",
+      "name_zh": "殊死搏鬥"
     },
     "Local Restaurants": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000932.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15000932.png",
+      "name_zh": "道地餐廳"
     },
     "Snake Prairie": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000004.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15000004.png",
+      "name_zh": "蝮蛇大草原"
     },
     "Doppelzone": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001191.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15001191.png",
+      "name_zh": "分身地帶"
     },
     "Serpentshrine Island": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001100.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15001100.png",
+      "name_zh": "蛇靈聖地"
     },
     "Dodge or Die": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001086.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15001086.png",
+      "name_zh": "不躲就倒"
     },
     "Unhappy Arena": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000923.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15000923.png",
+      "name_zh": "憤怒競技場"
     },
     "GG 2.0": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000900.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15000900.png",
+      "name_zh": "重製工坊"
     },
     "Cool Box": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000854.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15000854.png",
+      "name_zh": "冷藏盒子"
     },
     "Open Zone": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000527.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15000527.png",
+      "name_zh": "開放空間"
     },
     "Extreme Nonchalance": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001052.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15001052.png",
+      "name_zh": "漠不關心"
     },
     "Lilygear Lake": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000931.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15000931.png",
+      "name_zh": "驚魂湖泊"
     },
     "Time Flies": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001056.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15001056.png",
+      "name_zh": "時光飛逝"
     },
     "Rastermind": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001162.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15001162.png",
+      "name_zh": "光柵大腦"
     },
     "Journey of a Thousand Steps": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001102.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15001102.png",
+      "name_zh": "千步之旅"
     },
     "Flute Chutes": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001093.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15001093.png",
+      "name_zh": "笛音通道"
     },
     "Treasure Marks the Spot": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000915.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15000915.png",
+      "name_zh": "藏寶祕地"
     },
     "Frosty tracks": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000647.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15000647.png",
+      "name_zh": "霜凍路徑"
     },
     "Catacombs": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001103.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15001103.png",
+      "name_zh": "骸骨地穴"
     },
     "Siberian Stand Off": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000971.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15000971.png",
+      "name_zh": "寒冷對峙"
     },
     "Moonbark Meadow": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001029.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15001029.png",
+      "name_zh": "月亮草地"
     },
     "Moonveil Mansion": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001188.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15001188.png",
+      "name_zh": "月幕莊園"
     },
     "Middle Management": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000914.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15000914.png",
+      "name_zh": "中層管理"
     },
     "Survival of the Meanest": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000975.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15000975.png",
+      "name_zh": "適者生存"
     },
     "Mirages of Madness": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000973.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15000973.png",
+      "name_zh": "瘋狂幻象"
     },
     "Brawlerverse": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001047.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15001047.png",
+      "name_zh": "亂鬥宇宙"
     },
     "Abracadabra": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15001022.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15001022.png",
+      "name_zh": "神奇魔咒"
     },
     "Priceless Cactus": {
-      "image": "https://github.com/Brawlify/CDN/tree/master/maps/regular/15000928.png"
+      "image": "https://cdn.brawlify.com/maps/regular/15000928.png",
+      "name_zh": "無價仙人掌"
     }
   },
   "mode": {
-    "botDrop": {},
-    "wipeout": {},
-    "siege": {},
-    "basketBrawl": {},
-    "bounty": {},
-    "brawlBall": {},
-    "heist": {},
-    "hotZone": {},
-    "knockout": {},
-    "gemGrab": {}
+    "brawlHockey": {
+      "image": "https://cdn.brawlify.com/game-modes/regular/48000045.png",
+      "name_zh": "亂鬥曲棍球"
+    },
+    "volleyBrawl": {
+      "image": "https://cdn.brawlify.com/game-modes/regular/48000023.png",
+      "name_zh": "亂鬥排球"
+    },
+    "basketBrawl": {
+      "image": "https://cdn.brawlify.com/game-modes/regular/48000022.png",
+      "name_zh": "亂鬥籃球"
+    },
+    "dodgeBrawl": {
+      "image": "https://cdn.brawlify.com/game-modes/regular/48000063.png",
+      "name_zh": "亂鬥躲避球"
+    },
+    "paintBrawl": {
+      "image": "https://cdn.brawlify.com/game-modes/regular/48000037.png",
+      "name_zh": "塗鴉亂鬥"
+    },
+    "presentPlunder": {
+      "image": "https://cdn.brawlify.com/game-modes/regular/48000016.png",
+      "name_zh": "禮物保衛戰"
+    },
+    "botDrop": {
+      "image": "https://cdn.brawlify.com/game-modes/regular/48000027.png",
+      "name_zh": "機甲天降"
+    },
+    "soulCollector": {
+      "image": "https://cdn.brawlify.com/game-modes/regular/48000040.png",
+      "name_zh": "奪魂之戰"
+    },
+    "siege": {
+      "image": "https://cdn.brawlify.com/game-modes/regular/48000011.png",
+      "name_zh": "機甲攻堅戰"
+    },
+    "tokenRun": {
+      "image": "https://cdn.brawlify.com/game-modes/regular/48000055.png",
+      "name_zh": "道具跑跑"
+    },
+    "treasureHunt": {
+      "image": "https://cdn.brawlify.com/game-modes/regular/48000056.png",
+      "name_zh": "尋寶競賽"
+    },
+    "brawlArena": {
+      "image": "https://cdn.brawlify.com/game-modes/regular/48000048.png",
+      "name_zh": "亂鬥競技場"
+    },
+    "wipeout": {
+      "image": "https://cdn.brawlify.com/game-modes/regular/480000025png",
+      "name_zh": "積分爭奪戰"
+    },
+    "bounty": {
+      "image": "https://cdn.brawlify.com/game-modes/regular/48000003.png",
+      "name_zh": "搶星大作戰"
+    },
+    "brawlBall": {
+      "image": "https://cdn.brawlify.com/game-modes/regular/48000005.png",
+      "name_zh": "亂鬥足球"
+    },
+    "heist": {
+      "image": "https://cdn.brawlify.com/game-modes/regular/48000002.png",
+      "name_zh": "金庫攻防戰"
+    },
+    "hotZone": {
+      "image": "https://cdn.brawlify.com/game-modes/regular/48000017.png",
+      "name_zh": "據點搶奪戰"
+    },
+    "knockout": {
+      "image": "https://cdn.brawlify.com/game-modes/regular/48000020.png",
+      "name_zh": "極限淘汰賽"
+    },
+    "gemGrab": {
+      "image": "https://cdn.brawlify.com/game-modes/regular/48000000.png",
+      "name_zh": "寶石爭奪戰"
+    }
   }
 }
