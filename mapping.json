@@ -1116,6 +1116,42 @@
     "Priceless Cactus": {
       "image": "https://cdn.brawlify.com/maps/regular/15000928.png",
       "name_zh": "無價仙人掌"
+    },
+    "Railroad Robbery": {
+      "image": "https://cdn.brawlify.com/maps/regular/15001123.png"
+    },
+    "Ticket to Die": {
+      "image": "https://cdn.brawlify.com/maps/regular/15001126.png"
+    },
+    "Back Shuffle": {
+      "image": "https://cdn.brawlify.com/maps/regular/15001092.png"
+    },
+    "Slippery road": {
+      "image": "https://cdn.brawlify.com/maps/regular/15000645.png"
+    },
+    "Pound of Mass": {
+      "image": "https://cdn.brawlify.com/maps/regular/15001105.png"
+    },
+    "The Emptiness Machine": {
+      "image": "https://cdn.brawlify.com/maps/regular/15001048.png"
+    },
+    "All Things Wicked": {
+      "image": "https://cdn.brawlify.com/maps/regular/15001098.png"
+    },
+    "Hug or Hurl": {
+      "image": "https://cdn.brawlify.com/maps/regular/15001033.png"
+    },
+    "Massive Meltdown": {
+      "image": "https://cdn.brawlify.com/maps/regular/15001034.png"
+    },
+    "Island Of Finality": {
+      "image": "https://cdn.brawlify.com/maps/regular/15001050.png"
+    },
+    "Zip Zap Zoom": {
+      "image": "https://cdn.brawlify.com/maps/regular/15001062.png"
+    },
+    "Wonderland": {
+      "image": "https://cdn.brawlify.com/maps/regular/15001106.png"
     }
   },
   "mode": {
