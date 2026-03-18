@@ -1176,6 +1176,18 @@
     },
     "Cold Snap": {
       "image": "https://cdn.brawlify.com/maps/regular/15001041.png"
+    },
+    "Side Quests": {
+      "image": "https://cdn.brawlify.com/maps/regular/15001198.png"
+    },
+    "Afterparty": {
+      "image": "https://cdn.brawlify.com/maps/regular/15001090.png"
+    },
+    "Ancient Treasure": {
+      "image": "https://cdn.brawlify.com/maps/regular/15000916.png"
+    },
+    "Fishing Bed": {
+      "image": "https://cdn.brawlify.com/maps/regular/15000927.png"
     }
   },
   "mode": {
