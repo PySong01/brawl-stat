@@ -1188,6 +1188,30 @@
     },
     "Fishing Bed": {
       "image": "https://cdn.brawlify.com/maps/regular/15000927.png"
+    },
+    "Brawl Starrgate": {
+      "image": "https://cdn.brawlify.com/maps/regular/15000924.png"
+    },
+    "Safety Center": {
+      "image": "https://cdn.brawlify.com/maps/regular/15000970.png"
+    },
+    "Silver Shadow Circus": {
+      "image": "https://cdn.brawlify.com/maps/regular/15001189.png"
+    },
+    "Snowcone Square": {
+      "image": "https://cdn.brawlify.com/maps/regular/15000925.png"
+    },
+    "In the Liminal": {
+      "image": "https://cdn.brawlify.com/maps/regular/15001023.png"
+    },
+    "Big Battle Basin": {
+      "image": "https://cdn.brawlify.com/maps/regular/15000920.png"
+    },
+    "Just Another Race To Anywhere": {
+      "image": "https://cdn.brawlify.com/maps/regular/15001091.png"
+    },
+    "Cavern Churn": {
+      "image": "https://cdn.brawlify.com/maps/regular/15000955.png"
     }
   },
   "mode": {
