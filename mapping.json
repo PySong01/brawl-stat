@@ -1226,79 +1226,98 @@
   "mode": {
     "brawlHockey": {
       "image": "https://cdn.brawlify.com/game-modes/regular/48000045.png",
-      "name_zh": "亂鬥曲棍球"
+      "name_zh": "亂鬥曲棍球",
+      "mode_id": 48000045
     },
     "volleyBrawl": {
       "image": "https://cdn.brawlify.com/game-modes/regular/48000023.png",
-      "name_zh": "亂鬥排球"
+      "name_zh": "亂鬥排球",
+      "mode_id": 48000023
     },
     "basketBrawl": {
       "image": "https://cdn.brawlify.com/game-modes/regular/48000022.png",
-      "name_zh": "亂鬥籃球"
+      "name_zh": "亂鬥籃球",
+      "mode_id": 48000022
     },
     "dodgeBrawl": {
       "image": "https://cdn.brawlify.com/game-modes/regular/48000063.png",
-      "name_zh": "亂鬥躲避球"
+      "name_zh": "亂鬥躲避球",
+      "mode_id": 48000063
     },
     "paintBrawl": {
       "image": "https://cdn.brawlify.com/game-modes/regular/48000037.png",
-      "name_zh": "塗鴉亂鬥"
+      "name_zh": "塗鴉亂鬥",
+      "mode_id": 48000037
     },
     "presentPlunder": {
       "image": "https://cdn.brawlify.com/game-modes/regular/48000016.png",
-      "name_zh": "禮物保衛戰"
+      "name_zh": "禮物保衛戰",
+      "mode_id": 48000016
     },
     "botDrop": {
       "image": "https://cdn.brawlify.com/game-modes/regular/48000027.png",
-      "name_zh": "機甲天降"
+      "name_zh": "機甲天降",
+      "mode_id": 48000027
     },
     "soulCollector": {
       "image": "https://cdn.brawlify.com/game-modes/regular/48000040.png",
-      "name_zh": "奪魂之戰"
+      "name_zh": "奪魂之戰",
+      "mode_id": 48000040
     },
     "siege": {
       "image": "https://cdn.brawlify.com/game-modes/regular/48000011.png",
-      "name_zh": "機甲攻堅戰"
+      "name_zh": "機甲攻堅戰",
+      "mode_id": 48000011
     },
     "tokenRun": {
       "image": "https://cdn.brawlify.com/game-modes/regular/48000055.png",
-      "name_zh": "道具跑跑"
+      "name_zh": "道具跑跑",
+      "mode_id": 48000055
     },
     "treasureHunt": {
       "image": "https://cdn.brawlify.com/game-modes/regular/48000056.png",
-      "name_zh": "尋寶競賽"
+      "name_zh": "尋寶競賽",
+      "mode_id": 48000056
     },
     "brawlArena": {
       "image": "https://cdn.brawlify.com/game-modes/regular/48000048.png",
-      "name_zh": "亂鬥競技場"
+      "name_zh": "亂鬥競技場",
+      "mode_id": 48000048
     },
     "wipeout": {
-      "image": "https://cdn.brawlify.com/game-modes/regular/48000025png",
-      "name_zh": "積分爭奪戰"
+      "image": "https://cdn.brawlify.com/game-modes/regular/48000025.png",
+      "name_zh": "積分爭奪戰",
+      "mode_id": 48000025
     },
     "bounty": {
       "image": "https://cdn.brawlify.com/game-modes/regular/48000003.png",
-      "name_zh": "搶星大作戰"
+      "name_zh": "搶星大作戰",
+      "mode_id": 48000003
     },
     "brawlBall": {
       "image": "https://cdn.brawlify.com/game-modes/regular/48000005.png",
-      "name_zh": "亂鬥足球"
+      "name_zh": "亂鬥足球",
+      "mode_id": 48000005
     },
     "heist": {
       "image": "https://cdn.brawlify.com/game-modes/regular/48000002.png",
-      "name_zh": "金庫攻防戰"
+      "name_zh": "金庫攻防戰",
+      "mode_id": 48000002
     },
     "hotZone": {
       "image": "https://cdn.brawlify.com/game-modes/regular/48000017.png",
-      "name_zh": "據點搶奪戰"
+      "name_zh": "據點搶奪戰",
+      "mode_id": 48000017
     },
     "knockout": {
       "image": "https://cdn.brawlify.com/game-modes/regular/48000020.png",
-      "name_zh": "極限淘汰賽"
+      "name_zh": "極限淘汰賽",
+      "mode_id": 48000020
     },
     "gemGrab": {
       "image": "https://cdn.brawlify.com/game-modes/regular/48000000.png",
-      "name_zh": "寶石爭奪戰"
+      "name_zh": "寶石爭奪戰",
+      "mode_id": 48000000
     }
   }
 }
