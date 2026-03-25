@@ -1230,6 +1230,15 @@
     },
     "Rockwall Brawl": {
       "image": "https://cdn.brawlify.com/maps/regular/15000949.png"
+    },
+    "The Seven Pillars of Humanity": {
+      "image": "https://cdn.brawlify.com/maps/regular/15001166.png"
+    },
+    "ATLAS": {
+      "image": "https://cdn.brawlify.com/maps/regular/15001089.png"
+    },
+    "Zone Splitting": {
+      "image": "https://cdn.brawlify.com/maps/regular/15001125.png"
     }
   },
   "mode": {
